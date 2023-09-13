@@ -98,7 +98,7 @@ def main():
 
     print logo
 
-    print("")
+    print()
 
     print("\033[0;97m( Cloning Main Menu )").center(50)
 
